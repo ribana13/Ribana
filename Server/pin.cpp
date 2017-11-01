@@ -20,7 +20,7 @@ void Pin::set(int p)
     }
 
 }
-int Pin::get(int stare)
+int Pin::get()
 {
     int res;
 
